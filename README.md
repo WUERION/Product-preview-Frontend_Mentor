@@ -8,6 +8,9 @@
 
 -This page was created with HTML and CSS.
 
+# Time
+-01h:15m
+
 - Website - [WUERION](https://wuerion.github.io/)
 - Frontend Mentor - [@WUERION](https://www.frontendmentor.io/profile/WUERION)
 - Twitter - [@WUERION47](https://twitter.com/WUERION_47)
