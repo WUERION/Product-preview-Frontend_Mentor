@@ -2,7 +2,7 @@
 
 # description
 
--Este es un desafío de Frontend Mentor que tenemos que hacer un componente de tarjeta de vista previa del producto.
+- This is a Frontend Mentor challenge that we have to make a product preview card component.
 
 # technology
 
