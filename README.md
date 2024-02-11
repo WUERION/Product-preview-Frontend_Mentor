@@ -6,7 +6,7 @@
 
 ## Link 
 
-https://inspiring-pudding-0442b2.netlify.app/
+https://dulcet-mandazi-b828d6.netlify.app/
 
 # technology
 
